@@ -1,1 +1,1 @@
-# lantern123-coding-lessons
+# ..lantern123-coding-lessons
